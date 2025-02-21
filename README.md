@@ -4,6 +4,6 @@
 \- As a software developer, i aim to provide customers a better experiences solving their problems the best way.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomov95&theme=aura&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomovs95&theme=aura&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomov95&theme=aura&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salomovs95&theme=aura&layout=compact)
