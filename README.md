@@ -1,23 +1,32 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Salomao, nice to meet..</h3>
 
+<br/>
+
 > [!IMPORTANT]
 > I'm a .. software developer, actually focusing on backend but i can play my role on frontend as well.</p>
 
+<br/>
+
 <h3>Techs i proudly (or not so proudly) know:</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=F7DF1E" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
 
-- Java
-- Javascript
-- Spring Boot
-- React
-- Vue
-
+<br/>
 
 > [!NOTE]
 > Fun fact:
 > \
 > Maybe later i'll tell, or not.  😉
 
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomovs95&theme=aura&show_icons=true&bg_color=00000000)
 
