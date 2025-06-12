@@ -1,7 +1,22 @@
-## Hi there 👋
-### I'm Salomao, nice to meet..
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Salomao, nice to meet..</h3>
 
-\- As a software developer, i aim to provide customers a better experiences solving their problems the best way.
+> [!IMPORTANT]
+> I'm a .. software developer, actually focusing on backend but i can play my role on frontend as well.</p>
+
+<h3>Techs i proudly (or not so proudly) know:</h3>
+
+- Java
+- Javascript
+- Spring Boot
+- React
+- Vue
+
+
+> [!NOTE]
+> Fun fact:
+> \
+> Maybe later i'll tell, or not.  😉
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salomovs95&theme=aura&show_icons=true&bg_color=00000000)
