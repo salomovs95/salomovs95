@@ -1,14 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Salomao, nice to meet..</h3>
-
-<br/>
-
 > [!IMPORTANT]
 > I'm a .. software developer, actually focusing on backend but i can play my role on frontend as well.</p>
 
-<br/>
 
-<h3>Techs i proudly (or not so proudly) know:</h3>
+![1000004535](https://github.com/user-attachments/assets/fd927b6a-716f-42b0-a999-1e6d4d799d6a)
+
+
+**Techs i proudly (or not so proudly) know:**
 <div align="center">
   <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=Java&logoColor=F7DF1E" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
